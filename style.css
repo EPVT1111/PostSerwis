@@ -21,6 +21,9 @@
 }
 body{
     background-color: var(--basecolor);
+    border: solid;
+    width: 100%;
+    overflow: hidden;
 }
 .container{
     min-height: 100vh;
